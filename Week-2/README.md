@@ -15,9 +15,4 @@ Build an end-to-end ML pipeline on sales/price data.
    ✅ 10. Time Series Forecasting (Holt-Winters + SARIMA)
    ✅ 11. 12-Month Future Delivery Forecast
 
-
-If GitHub preview fails, open the notebook in:
-
-Google Colab (https://colab.research.google.com/drive/1EoU6fdkqKbb4NXPRQKh9CyhhRBAkpK2x)
-Jupyter Notebook
-VS Code
+https://colab.research.google.com/drive/1EoU6fdkqKbb4NXPRQKh9CyhhRBAkpK2x
