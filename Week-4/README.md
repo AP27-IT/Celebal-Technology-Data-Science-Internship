@@ -1,16 +1,5 @@
 # Week 4 Assignment
 
-This folder contains the Week 4 assignments completed during my Data Science Internship at Celebal Technologies.
+Build an image classification model on CIFAR-10 and analyze performance across architectures and training strategies. (Do it with both ANN & CNN)
 
-## Contents
-- Assignment Notebook(s)
-- Practice Tasks
-- Weekly Deliverables
 
-## Tools & Technologies
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-Learn
-- Jupyter Notebook
